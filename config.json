@@ -1,0 +1,8 @@
+{
+    "secret": "It's a SECRET",
+    "user": {
+        "id": 1,
+        "username": "bc8ad64eaa0952de3c71b28d6b34049f6629b156d9daf7905352064c97a53a95",
+        "password": "01b613da484bee91c3f3806b52a6f40fd61ade874b5ffc0f62a2091cce38158b"
+    }
+}
